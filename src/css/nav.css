@@ -1,0 +1,32 @@
+.nav {
+    height: 40px;
+    background: #333;
+  }
+.navigation{
+  width: 90%;
+  height: 40px;
+  /* background: rgb(238, 87, 87); */
+  margin:0 auto;
+}
+.nav-topbar {
+  float: left;
+  line-height: 40px;
+}
+.nav-topbar a {
+  font-size: 12px;
+  color: #b0b0b0;
+  padding: 5px;
+}
+.sep{
+  font-size: 12px;  
+  color: #b0b0b0;
+}
+.login{
+  float: right;
+  line-height: 40px;
+}
+.login a {
+  font-size: 12px;
+  color: #b0b0b0;
+  padding: 5px;
+}
