@@ -1,0 +1,43 @@
+.img{
+    width: 90%;
+    height: 460px;
+    background: gray;
+    margin: 0 auto;
+    position: relative;
+}
+.img ul{
+    width: 20%;
+    height: 420px;
+    border: 0;
+    background: rgba(0,0,0,0.6);
+    padding: 20px 0;
+    margin: 0;
+    position: absolute;
+}
+.img li{
+    padding-left: 30px;
+    height: 42px;
+    line-height: 42px;
+    color: #fff;
+    font-size: 14px;
+}
+.el-icon-arrow-right{
+    position: absolute;
+    right: 20px; 
+    font-size: 8px;
+    line-height: 43px;
+    color: rgba(255,255,255,0.5);
+}
+.block{
+    height: 460px;
+    width: 80%;
+    float: right;
+    text-align: center;
+}
+.block img{
+    width:100%;
+    height: 460px;      
+}
+.el-carousel__indicators{
+    display: none;
+}
